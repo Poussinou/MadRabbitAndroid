@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mad Rabbit Videos</string>
+    <string name="navigation_header_title">Mad Rabbit Videos</string>
+    <string name="global_offline_toast">No Internet connection available</string>
+    <string name="placeholder_empty">Not found</string>
+    <string name="placeholder_offline">No Internet connection available</string>
+
+</resources>
